@@ -1,0 +1,7 @@
+{
+  "name": "poc_gps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
